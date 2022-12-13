@@ -1,4 +1,4 @@
-#This is the Code For Project With Description
+//This is the Code For Project With Description
 //This header file includes different variables, macros, and functions to perform input and output
 #include <stdio.h>
 //To use functions such as strcmp, strlen and strcpy
